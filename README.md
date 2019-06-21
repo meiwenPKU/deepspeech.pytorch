@@ -1,3 +1,5 @@
+# This repo is used to play deep speech 2 model 
+
 # deepspeech.pytorch
 
 Implementation of DeepSpeech2 for PyTorch. Creates a network based on the [DeepSpeech2](http://arxiv.org/pdf/1512.02595v1.pdf) architecture, trained with the CTC activation function.
